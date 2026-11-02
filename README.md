@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| release-v0.2.1 | [`release-v0.2.1`](https://github.com/chainguard-actions/jayef0-chalice-extended-action/tree/release-v0.2.1) | [`c432bdf`](https://github.com/jayef0/chalice-extended-action/commit/c432bdff6fbef2a5dbbec4582b3c57e8c6310314) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| release-v0.2.1 | [`release-v0.2.1`](https://github.com/chainguard-actions/jayef0-chalice-extended-action/tree/release-v0.2.1) | [`c432bdf`](https://github.com/jayef0/chalice-extended-action/commit/c432bdff6fbef2a5dbbec4582b3c57e8c6310314) | [`HARDENING.md`](https://github.com/chainguard-actions/jayef0-chalice-extended-action/blob/release-v0.2.1/HARDENING.md) |
 
 ## Privacy
 
